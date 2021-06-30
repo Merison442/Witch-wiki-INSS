@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'word' );
 
 /** MySQL database username */
-define( 'DB_USER', 'merison' );
+define( 'DB_USER', 'mexsor' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'mexsor12' );
