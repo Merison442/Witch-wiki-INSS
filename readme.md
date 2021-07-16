@@ -1,1 +1,3 @@
-<img src="https://static.wikia.nocookie.net/witcher/images/b/ba/Tw3_journal_werewolf.png/revision/latest/scale-to-width-down/654?cb=20160408161038" alt="lobo">
+<p align="center">
+  <img width="280" height="180" src="https://github.com/Viniciuslb067/be-the-hero/blob/master/frontend/src/assets/logo.svg">
+</p>
