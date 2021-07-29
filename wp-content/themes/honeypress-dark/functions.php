@@ -49,8 +49,8 @@ function honeypress_dark_footer_section_hook() {
         </div>
 		
          <div class="site-info text-center">
-            <p> Witch Wiki <br>
-				  <?php esc_html_e( 'Proudly powered by Mérison and Vorgnae', 'honeypress-dark' ); ?> <!-- <a href="<?php echo esc_url( __( 'https://wordpress.org', 'honeypress-dark' ) ); ?>"><?php esc_html_e( 'WordPress', 'honeypress-dark' ); ?> </a> <?php esc_html_e( '| Theme:', 'honeypress-dark' ); ?> <a href="<?php echo esc_url( __( 'https://spicethemes.com', 'honeypress-dark' ) ); ?>" rel="nofollow"> <?php esc_html_e( 'HoneyPress Dark', 'honeypress-dark' ); ?></a> <?php esc_html_e( 'by SpiceThemes', 'honeypress-dark' );?> --!> </p> 
+            <p> Witch Wiki 
+				  <?php esc_html_e( 'Proudly powered by', 'honeypress-dark' ); ?> <a href="<?php echo esc_url( __( 'https://www.instagram.com/Vorgnae/', 'honeypress-dark' ) ); ?>" target="_blank"><?php esc_html_e( 'Vorgnae', 'honeypress-dark' ); ?> </a> <?php esc_html_e( ' and', 'honeypress-dark' ); ?>  <a href="<?php echo esc_url( __( 'https://www.instagram.com/messin_santos_/', 'honeypress-dark' ) ); ?>" target="_blank" rel="nofollow"> <?php esc_html_e( 'Messin.', 'honeypress-dark' ); ?></a> <!-- <?php esc_html_e( 'by SpiceThemes', 'honeypress-dark' );?> --!>  </p> 
         </div> 
     </footer>
     <?php
