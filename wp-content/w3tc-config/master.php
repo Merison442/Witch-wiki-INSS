@@ -888,9 +888,12 @@
     "common.instance_id": 1458563226,
     "common.force_master": true,
     "extensions.active": {
-        "fragmentcache": "w3-total-cache\/Extension_FragmentCache_Plugin.php"
+        "fragmentcache": "w3-total-cache\/Extension_FragmentCache_Plugin.php",
+        "wordpress-seo": "w3-total-cache\/Extension_WordPressSeo_Plugin.php"
     },
-    "extensions.active_frontend": [],
+    "extensions.active_frontend": {
+        "wordpress-seo": "*"
+    },
     "extensions.active_dropin": [],
     "plugin.license_key": "",
     "plugin.type": "",

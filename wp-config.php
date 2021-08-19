@@ -1,6 +1,8 @@
 <?php
 /** Enable W3 Total Cache */
 
+/** Enable W3 Total Cache */
+
 /**
  * The base configuration for WordPress
  *
