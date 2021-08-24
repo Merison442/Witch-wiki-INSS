@@ -58,6 +58,11 @@ define( 'AUTH_SALT',        '&@f:y&tV.4>uH.x5z Duaz(FyT}Yh374/625!o:2W6(Pp[wNA=+
 define( 'SECURE_AUTH_SALT', 'x&sm&[l5Ev1f&@yKsm?ke(?E- 4vLfmEwv|{d+Da#/Wj(:MI4^b+}b6gH$q7t/.(' );
 define( 'LOGGED_IN_SALT',   'bJT@_gaukB;XbJp7iV?OKyS]+iX?LMA^ Fi^uJoMb}>*P:Pq&7wc$Bh%n (B17z2' );
 define( 'NONCE_SALT',       ']Pd?L0STw=zDojajJUoS4vT1(=.}[`[xKB<rB=^pcHp<`$,Jujz&*k5yro*<}t6l' );
+define('WP_PROXY_HOST', '10.70.124.16');
+define('WP_PROXY_PORT', '3128');
+define('WP_PROXY_USERNAME', 'josecarlos.almeida');
+define('WP_PROXY_PASSWORD', 'Camilla!3');
+
 
 /**#@-*/
 
